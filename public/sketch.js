@@ -29,7 +29,7 @@ function setup() {
   textSize(37);
   image(gioconda, 0, 0);
   fill(255);
-  text("Let's vandalize the Mona Lisa toghether!", 10, 40);
+  text("Let's vandalize the Mona Lisa together!", 10, 40);
 }
 
 function draw() {
